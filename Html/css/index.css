@@ -1,0 +1,10 @@
+.uploadFileWrapper{
+    text-align: center
+}
+.uploadFileWrapper .selectFile {
+
+}
+.uploadFileWrapper .uploadFile{
+    width: 80px;
+    height: 30px;
+}
